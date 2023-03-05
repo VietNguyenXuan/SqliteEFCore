@@ -1,0 +1,163 @@
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.exe
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.deps.json
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.runtimeconfig.json
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.runtimeconfig.dev.json
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.pdb
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Humanizer.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.AssemblyReference.cache
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.AssemblyInfoInputs.cache
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.AssemblyInfo.cs
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.CoreCompileInputs.cache
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.CopyComplete
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\refint\DemoSQLite.dll
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.pdb
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.genruntimeconfig.cache
+D:\ReviewC#\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\ref\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.exe
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.deps.json
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.runtimeconfig.json
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.runtimeconfig.dev.json
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.pdb
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.AssemblyReference.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.AssemblyInfoInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.AssemblyInfo.cs
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.CoreCompileInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.CopyComplete
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\refint\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.pdb
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.genruntimeconfig.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\ref\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.Form1.resources
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.GenerateResource.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.exe
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.deps.json
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.runtimeconfig.json
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.runtimeconfig.dev.json
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\DemoSQLite.pdb
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.AssemblyReference.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.Form1.resources
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.GenerateResource.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.AssemblyInfoInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.AssemblyInfo.cs
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.CoreCompileInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.csproj.CopyComplete
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\refint\DemoSQLite.dll
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.pdb
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\DemoSQLite.genruntimeconfig.cache
+C:\Users\19146\OneDrive\Máy tính\DemoSQLite\SqliteEFCore\DemoSQLite\obj\Debug\net5.0-windows\ref\DemoSQLite.dll
