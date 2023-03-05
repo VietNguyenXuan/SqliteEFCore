@@ -24,7 +24,7 @@ namespace DemoSQLite
       timer1.Start();
     }
 
-    
+
 
     private void timer1_Tick(object sender, EventArgs e)
     {
@@ -49,7 +49,8 @@ namespace DemoSQLite
       Machine machine = new Machine();
       machine.Name = txbMachine.Text;
       machine.DateCreate = DateTime.Now;
-
+      machine.LineId = null;
+      machine.Line = null;
       _managersMachine.Add(machine);
     }
 
@@ -61,7 +62,7 @@ namespace DemoSQLite
     {
       Device device = new Device();
       device.Name = txbDevice.Text;
-
+      device.MachineId = int.Parse(textBox1.Text);
       Random rd = new Random();
       device.Value = rd.Next(1, 100);
       //device.Value = 100;

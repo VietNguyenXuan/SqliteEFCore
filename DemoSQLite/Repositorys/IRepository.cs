@@ -8,11 +8,12 @@ using System.Threading.Tasks;
 
 namespace DemoSQLite.Repositorys
 {
-  public interface MachineRepository
+  public interface IRepository<T> where T : class
   {
-    List<ViewMachine> GetAll();
-    ViewMachine GetById(int id);
-    ViewMachine Add(Machine machines);
-    void Update(ViewMachine machines);
+    List<T> GetAll();
+    T GetById(int id);
+    T Add(T machines);
+    void Update(T machines);
     void Delete(int id);
-  }}
+  }
+}

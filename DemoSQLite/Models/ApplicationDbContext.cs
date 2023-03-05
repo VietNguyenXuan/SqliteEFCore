@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace DemoSQLite.Models
 {
-  internal class ApplicationDbContext:DbContext
+  internal class ApplicationDbContext : DbContext
   {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -16,13 +16,15 @@ namespace DemoSQLite.Models
     }
     public DbSet<Machine> Machines { get; set; }
     public DbSet<Device> Devices { get; set; }
+    public DbSet<Line> Lines { get; set; }
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-      modelBuilder.Entity<Device>()
-          .HasOne(p => p.Machine)
-          .WithMany(b => b.Devices)
-          .HasForeignKey(p => p.MachineId);
+      //modelBuilder.Entity<Device>()
+      //    .HasOne(p => p.Machine)
+      //    .WithMany(b => b.Devices)
+      //    .HasForeignKey(p => p.MachineId);
     }
   }
 }

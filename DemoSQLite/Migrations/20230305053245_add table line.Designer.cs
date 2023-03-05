@@ -3,14 +3,16 @@ using System;
 using DemoSQLite.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DemoSQLite.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230305053245_add table line")]
+    partial class addtableline
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -26,6 +28,7 @@ namespace DemoSQLite.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<int?>("MachineId")
+                        .IsRequired()
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Name")
@@ -70,7 +73,7 @@ namespace DemoSQLite.Migrations
                     b.Property<DateTime>("DateCreate")
                         .HasColumnType("TEXT");
 
-                    b.Property<int?>("LineId")
+                    b.Property<int>("LineId")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Name")
@@ -87,7 +90,9 @@ namespace DemoSQLite.Migrations
                 {
                     b.HasOne("DemoSQLite.Models.Machine", "Machine")
                         .WithMany("Devices")
-                        .HasForeignKey("MachineId");
+                        .HasForeignKey("MachineId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Machine");
                 });
@@ -96,7 +101,9 @@ namespace DemoSQLite.Migrations
                 {
                     b.HasOne("DemoSQLite.Models.Line", "Line")
                         .WithMany("Machines")
-                        .HasForeignKey("LineId");
+                        .HasForeignKey("LineId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Line");
                 });

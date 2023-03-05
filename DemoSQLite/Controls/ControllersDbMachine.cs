@@ -15,17 +15,17 @@ namespace DemoSQLite.Controls
   {
     ApplicationDbContext _dbContext = new ApplicationDbContext();
 
-    public void Add(Machine machines)
+    public async Task Add(Machine machines)
     {
-      _dbContext.Database.EnsureCreated();
-      _dbContext.Machines.Add(machines);
-      _dbContext.SaveChanges();
+      await _dbContext.Database.EnsureCreatedAsync();
+      await _dbContext.Machines.AddAsync(machines);
+      await _dbContext.SaveChangesAsync();
     }
 
-    public List<Machine> GetAll()
+    public async Task<List<Machine>> GetAll()
     {
       _dbContext.Database.EnsureCreated();
-      return _dbContext.Machines.ToList();
+      return await _dbContext.Machines.ToListAsync();
     }
 
     public void Delete(int id)
@@ -33,7 +33,7 @@ namespace DemoSQLite.Controls
       throw new NotImplementedException();
     }
 
-   
+
     public ViewMachine GetById(int id)
     {
       throw new NotImplementedException();
@@ -43,6 +43,6 @@ namespace DemoSQLite.Controls
     {
       throw new NotImplementedException();
     }
-    
+
   }
 }
