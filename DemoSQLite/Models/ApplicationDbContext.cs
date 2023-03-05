@@ -12,12 +12,6 @@ namespace DemoSQLite.Models
   {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-      /*
-      var sqlitePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
-       @"McProtocol_EntityFrameworkCoreNet2_Database_Update\\database.db");
-      if (!Directory.Exists(sqlitePath)) Directory.CreateDirectory(sqlitePath); optionsBuilder.UseSqlite("Data Source=" + sqlitePath + "\\database.db");
-      */
-      //optionsBuilder.UseSqlite(@"Data Source=C:\Users\19146\OneDrive\Máy tính\DemoSQLite\DB\\Database.db");
       optionsBuilder.UseSqlite($"Data Source={Application.StartupPath}/DB.db");
     }
     public DbSet<Machine> Machines { get; set; }
