@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DemoSQLite.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230305054216_change lineid property")]
-    partial class changelineidproperty
+    [Migration("20230306145854_inital")]
+    partial class inital
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -54,9 +54,6 @@ namespace DemoSQLite.Migrations
 
                     b.Property<string>("Name")
                         .HasColumnType("TEXT");
-
-                    b.Property<float>("Value")
-                        .HasColumnType("REAL");
 
                     b.HasKey("Id");
 

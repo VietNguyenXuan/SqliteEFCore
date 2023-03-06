@@ -12,7 +12,7 @@ namespace DemoSQLite.Repositorys
   {
     List<T> GetAll();
     T GetById(int id);
-    T Add(T machines);
+    void Add(T machines);
     void Update(T machines);
     void Delete(int id);
   }

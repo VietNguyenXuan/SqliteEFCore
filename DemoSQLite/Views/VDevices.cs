@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoSQLite.Models
+namespace DemoSQLite.Views
 {
-  public class Line
+  public class VDevices
   {
-    public int Id { get; set; }
     public string? Name { get; set; }
+    public float Value { get; set; }
     public DateTime DateCreate { get; set; }
-
-    public List<Machine> Machines { get; set; }
-
+    //public int? MachineId { get; set; }
   }
 }

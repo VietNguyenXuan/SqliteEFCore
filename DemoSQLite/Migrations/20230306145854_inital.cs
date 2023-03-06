@@ -8,7 +8,7 @@ namespace DemoSQLite.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Machines",
+                name: "Lines",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
@@ -18,7 +18,28 @@ namespace DemoSQLite.Migrations
                 },
                 constraints: table =>
                 {
+                    table.PrimaryKey("PK_Lines", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Machines",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    Name = table.Column<string>(type: "TEXT", nullable: true),
+                    DateCreate = table.Column<DateTime>(type: "TEXT", nullable: false),
+                    LineId = table.Column<int>(type: "INTEGER", nullable: true)
+                },
+                constraints: table =>
+                {
                     table.PrimaryKey("PK_Machines", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Machines_Lines_LineId",
+                        column: x => x.LineId,
+                        principalTable: "Lines",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateTable(
@@ -30,7 +51,7 @@ namespace DemoSQLite.Migrations
                     Name = table.Column<string>(type: "TEXT", nullable: true),
                     Value = table.Column<float>(type: "REAL", nullable: false),
                     DateCreate = table.Column<DateTime>(type: "TEXT", nullable: false),
-                    MachineId = table.Column<int>(type: "INTEGER", nullable: false)
+                    MachineId = table.Column<int>(type: "INTEGER", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -40,13 +61,18 @@ namespace DemoSQLite.Migrations
                         column: x => x.MachineId,
                         principalTable: "Machines",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Devices_MachineId",
                 table: "Devices",
                 column: "MachineId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Machines_LineId",
+                table: "Machines",
+                column: "LineId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -56,6 +82,9 @@ namespace DemoSQLite.Migrations
 
             migrationBuilder.DropTable(
                 name: "Machines");
+
+            migrationBuilder.DropTable(
+                name: "Lines");
         }
     }
 }

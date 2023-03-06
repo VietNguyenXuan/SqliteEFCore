@@ -53,9 +53,6 @@ namespace DemoSQLite.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("TEXT");
 
-                    b.Property<float>("Value")
-                        .HasColumnType("REAL");
-
                     b.HasKey("Id");
 
                     b.ToTable("Lines");
